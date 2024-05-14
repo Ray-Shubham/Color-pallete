@@ -1,0 +1,132 @@
+table,td{
+    border: 1px solid red;
+    border-color: indianred;
+    text-align: center;
+    padding: 10px;
+    border-spacing: 10px;
+}
+#row1{
+    height: 90px;
+    width: 150px;
+    background-color: navajowhite;
+}
+#ro12{
+    height: 90px;
+    width: 150px;
+    background-color: midnightblue;
+}
+#ro13{
+    height: 90px;
+    width: 150px;
+    background-color: limegreen;
+}
+#ro14{
+    height: 90px;
+    width: 150px;
+    background-color: yellowgreen;
+}
+#ro15{
+    height: 90px;
+    width: 150px;
+    background-color: yellow;
+}
+#row2{
+    height: 90px;
+    width: 150px;
+    background-color: blueviolet;
+}
+#ro22{
+    height: 90px;
+    width: 150px;
+    background-color: crimson;
+}
+#ro23{
+    height: 90px;
+    width: 150px;
+    background-color: darkmagenta;
+}
+#ro24{
+    height: 90px;
+    width: 150px;
+    background-color: darksalmon;
+}
+#ro25{
+    height: 90px;
+    width: 150px;
+    background-color: darkturquoise;
+}
+#row3{
+    height: 90px;
+    width: 150px;
+    background-color: burlywood;
+}
+#ro32{
+    height: 90px;
+    width: 150px;
+    background-color: darkkhaki;
+}
+#ro33{
+    height: 90px;
+    width: 150px;
+    background-color: cornflowerblue;
+}
+#ro34{
+    height: 90px;
+    width: 150px;
+    background-color: darkgoldenrod;
+}
+#ro35{
+    height: 90px;
+    width: 150px;
+    background-color: aquamarine;
+}
+#row4{
+    height: 90px;
+    width: 150px;
+    background-color: chartreuse;
+}
+#ro42{
+    height: 90px;
+    width: 150px;
+    background-color: lightcoral;
+}
+#ro43{
+    height: 90px;
+    width: 150px;
+    background-color: green;
+}
+#ro44{
+    height: 90px;
+    width: 150px;
+    background-color: blanchedalmond;
+}
+#ro45{
+    height: 90px;
+    width: 150px;
+    background-color: blue;
+}
+#row5{
+    height: 90px;
+    width: 150px;
+    background-color: chocolate;
+}
+#ro52{
+    height: 90px;
+    width: 150px;
+    background-color: mediumvioletred;
+}
+#ro53{
+    height: 90px;
+    width: 150px;
+    background-color: deepskyblue;
+}
+#ro54{
+    height: 90px;
+    width: 150px;
+    background-color: darkcyan;
+}
+#ro55{
+    height: 90px;
+    width: 150px;
+    background-color: darkslategrey;
+}
